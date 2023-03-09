@@ -20,6 +20,7 @@ rt(90)
 
 color('blue', 'green')
 shape("turtle") # this will change the shape of the turtle
+# Other turtle shapes “arrow”, “circle”, “square”, “triangle”, “classic”
 fd(110)
 rt(90)
 
